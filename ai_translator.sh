@@ -1,0 +1,1 @@
+python -m ai_translator --book data/test.pdf --output data/test_result.pdf --target_lang 法语
